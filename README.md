@@ -1,5 +1,5 @@
 # Commodities-Android-App
-#Fetching Latest Commodities Price using Data.Gov API
+# Fetching Latest Commodities Price using Data.Gov API
 
 Built using following approach
 # MVVM
